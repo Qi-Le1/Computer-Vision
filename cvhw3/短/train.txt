@@ -1,0 +1,15 @@
+Kitchen train\Kitchen\image_0001.jpg
+Kitchen train\Kitchen\image_0004.jpg
+Kitchen train\Kitchen\image_0005.jpg
+Kitchen train\Kitchen\image_0007.jpg
+Kitchen train\Kitchen\image_0011.jpg
+Store train\Store\image_0001.jpg
+Store train\Store\image_0005.jpg
+Store train\Store\image_0006.jpg
+Store train\Store\image_0007.jpg
+Store train\Store\image_0011.jpg
+Bedroom train\Bedroom\image_0001.jpg
+Bedroom train\Bedroom\image_0002.jpg
+Bedroom train\Bedroom\image_0005.jpg
+Bedroom train\Bedroom\image_0009.jpg
+Bedroom train\Bedroom\image_0010.jpg

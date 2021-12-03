@@ -1,0 +1,6 @@
+Kitchen test\Kitchen\image_0002.jpg
+Kitchen test\Kitchen\image_0003.jpg
+Store test\Store\image_0002.jpg
+Store test\Store\image_0003.jpg
+Bedroom test\Bedroom\image_0003.jpg
+Bedroom test\Bedroom\image_0004.jpg
